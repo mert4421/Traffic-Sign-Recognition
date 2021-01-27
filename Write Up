@@ -24,9 +24,9 @@ The goals/steps of this project are the following:
 [image3]: ./14-Stop.jpg "Stop"
 [image4]: ./15-No-vehicles.jpg "No vehicles"
 [image5]: ./1-Speed-limit-30-km-h.jpg "Speed limit 30 km/h"
-[image6]: ./writeup-images/before.png
-[image7]: ./writeup-images/normalization.png
-[image8]: ./writeup-images/grayscale.png
+[image6]: ./before.png
+[image7]: ./normalization.png
+[image8]: ./grayscale.png
 
 ## Rubric Points
 Here I consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) 
