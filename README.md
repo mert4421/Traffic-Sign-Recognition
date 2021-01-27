@@ -19,11 +19,11 @@ The goals/steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./traffic-sign-images/11-Right-of-way-at-the-next-intersection.jpg "Right of way at the next intersection"
-[image2]: ./traffic-sign-images/12-Priority-road.jpg "Priority road"
-[image3]: ./traffic-sign-images/14-Stop.jpg "Stop"
-[image4]: ./traffic-sign-images/15-No-vehicles.jpg "No vehicles"
-[image5]: ./traffic-sign-images/1-Speed-limit-30-km-h.jpg "Speed limit 30 km/h"
+[image1]: ./11-Right-of-way-at-the-next-intersection.jpg "Right of way at the next intersection"
+[image2]: ./12-Priority-road.jpg "Priority road"
+[image3]: ./14-Stop.jpg "Stop"
+[image4]: ./15-No-vehicles.jpg "No vehicles"
+[image5]: ./1-Speed-limit-30-km-h.jpg "Speed limit 30 km/h"
 [image6]: ./writeup-images/before.png
 [image7]: ./writeup-images/normalization.png
 [image8]: ./writeup-images/grayscale.png
